@@ -1,0 +1,70 @@
+Rawah min, max, and average Elevation: [2473, 3686, 3000.2672855411893]
+Neota min, max, and average Elevation: [2945, 3647, 3245.7278142149644]
+Comanche peak min, max, and average Elevation: [2270, 3858, 2980.5544710377167]
+Cache la poudre min, max, and average Elevation: [1859, 2654, 2294.1060376541873]
+Total min, max, and average statistics for Elevation: [1859, 3858, 2959.365300544567]
+
+
+Rawah min, max, and average Aspect: [0, 360, 138.28027270356907]
+Neota min, max, and average Aspect: [0, 359, 182.56511845803774]
+Comanche peak min, max, and average Aspect: [0, 360, 165.18954942296457]
+Cache la poudre min, max, and average Aspect: [0, 360, 191.15640553992642]
+Total min, max, and average statistics for Aspect: [0, 360, 155.65680743254873]
+
+
+Rawah min, max, and average Slope: [0, 61, 12.157291522876118]
+Neota min, max, and average Slope: [0, 43, 12.937893186989694]
+Comanche peak min, max, and average Slope: [0, 66, 15.17378554175021]
+Cache la poudre min, max, and average Slope: [0, 50, 21.443437567626056]
+Total min, max, and average statistics for Slope: [0, 66, 14.103703537964792]
+
+
+Rawah min, max, and average Horizontal_Distance_To_Hydrology: [0, 1124, 246.55333287320357]
+Neota min, max, and average Horizontal_Distance_To_Hydrology: [0, 1129, 320.29410386829073]
+Comanche peak min, max, and average Horizontal_Distance_To_Hydrology: [0, 1397, 298.9232724459671]
+Cache la poudre min, max, and average Horizontal_Distance_To_Hydrology: [0, 664, 187.53622051504004]
+Total min, max, and average statistics for Horizontal_Distance_To_Hydrology: [0, 1397, 269.42821662891646]
+
+
+Rawah min, max, and average Vertical_Distance_To_Hydrology: [-159, 431, 34.74574379975153]
+Neota min, max, and average Vertical_Distance_To_Hydrology: [-166, 278, 44.238689599785836]
+Comanche peak min, max, and average Vertical_Distance_To_Hydrology: [-173, 601, 56.15317093193982]
+Cache la poudre min, max, and average Vertical_Distance_To_Hydrology: [-134, 312, 63.8157325254274]
+Total min, max, and average statistics for Vertical_Distance_To_Hydrology: [-173, 601, 46.418855376481034]
+
+
+Rawah min, max, and average Horizontal_Distance_To_Roadways: [0, 7117, 3134.408054571389]
+Neota min, max, and average Horizontal_Distance_To_Roadways: [30, 2632, 1008.1664770445724]
+Comanche peak min, max, and average Horizontal_Distance_To_Roadways: [0, 5463, 1937.1184382943118]
+Cache la poudre min, max, and average Horizontal_Distance_To_Roadways: [0, 1776, 733.0171229171175]
+Total min, max, and average statistics for Horizontal_Distance_To_Roadways: [0, 7117, 2350.1466114297123]
+
+
+Rawah min, max, and average Hillshade_9am: [56, 254, 218.11719888341847]
+Neota min, max, and average Hillshade_9am: [71, 254, 211.43548387096774]
+Comanche peak min, max, and average Hillshade_9am: [0, 254, 209.08460554774948]
+Cache la poudre min, max, and average Hillshade_9am: [46, 254, 191.5780404674313]
+Total min, max, and average statistics for Hillshade_9am: [0, 254, 212.14604861861716]
+
+
+Rawah min, max, and average Hillshade_Noon: [74, 254, 223.9480168407491]
+Neota min, max, and average Hillshade_Noon: [133, 254, 226.91758131441574]
+Comanche peak min, max, and average Hillshade_Noon: [0, 254, 224.4123198244423]
+Cache la poudre min, max, and average Hillshade_Noon: [93, 254, 208.47487015797446]
+Total min, max, and average statistics for Hillshade_Noon: [0, 254, 223.31871630878535]
+
+
+Rawah min, max, and average Hillshade_3pm: [0, 251, 137.64438488320374]
+Neota min, max, and average Hillshade_3pm: [0, 249, 148.2329674742337]
+Comanche peak min, max, and average Hillshade_3pm: [0, 254, 146.47848155223315]
+Cache la poudre min, max, and average Hillshade_3pm: [0, 250, 145.29750054100845]
+Total min, max, and average statistics for Hillshade_3pm: [0, 254, 142.52826275533036]
+
+
+Rawah min, max, and average Horizontal_Distance_To_Fire_Points: [0, 7173, 2538.7035997484622]
+Neota min, max, and average Horizontal_Distance_To_Fire_Points: [0, 5867, 2136.5235242939366]
+Comanche peak min, max, and average Horizontal_Distance_To_Fire_Points: [0, 4589, 1562.401351415355]
+Cache la poudre min, max, and average Horizontal_Distance_To_Fire_Points: [0, 2016, 778.6490207747241]
+Total min, max, and average statistics for Horizontal_Distance_To_Fire_Points: [0, 7173, 1980.2912263430014]
+
+

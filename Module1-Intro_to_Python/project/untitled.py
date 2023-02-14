@@ -21,3 +21,61 @@ Your program must make use of the following:
 
 
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def get_statistics(area_dictionary):
+#     for column_number in area_dictionary.keys():
+#         print("Minimum {}: {}".format(COLUMNS[column_number], min (area_dictionary[column_number])))
+#         print("Maximum {}: {}".format(COLUMNS[column_number], max (area_dictionary[column_number])))
+#         print("Mean {}: {}".format(COLUMNS[column_number], round((sum(area_dictionary[column_number])/len(area_dictionary[column_number])))))
+#         print("\n")    
+
+
+
+# for area in AREAS.keys():
+#     if area != 0:
+#         print(area)
+
+# def pull_data(area_dictionary, line_cols):
+#     for column_number in area_dictionary.keys():
+#         area_dictionary[column_number].append(float(line_cols[column_number]))
+        
+# def call_report(area_dictionary):
+#     for column_number in area_dictionary.keys():
+#         print("Minimum {}: {}".format(COLUMNS[column_number], min (area_dictioanry[column_number])))
+#         print("Maximum {}: {}".format(COLUMNS[column_number], max (area_dictioanry[column_number])))
+#         print("Mean {}: {}".format(COLUMNS[column_number], round((sum(area_dictioanry[column_number])/len(area_dictionary[column_number])))))
+#         print("\n")
+        
+# def main()        
+#     for row in file:
+#         cols = row.split(".")
+#         rawah, neota, comanche, cache = int(cols[11]), int(cols[12]), int(cols[13]), int(cols[14])
+#         if rawah == 1:
+#             pull_data(cols)
+#         elif neota == 1:
+#             pull_data(cols)
+#         elif comanche == 1:
+#             pull_data(cols)
+#         elif cache == 1:
+#             pull_data(cols)
+#     call_report(rawah)
+#     call_report(neota)
+#     call_report(comanche)
+#     call_report(cache)
+    
+# file.close()
+    
+# if __name__ == "__main__":
+#     main()
